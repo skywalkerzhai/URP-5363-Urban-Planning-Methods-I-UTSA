@@ -1,0 +1,7 @@
+In Rstudio, using the dataset of US census tracts: https://opportunityinsights.org/wp-content/uploads/2018/10/tract_covariates.csv to accomplish the following task:
+
+Read the full dataset that includes 38 variables  (7’)
+Create a new dataframe that only contains with the following three variables:  “czname”, “hhinc_mean2000”, “popdensity2000” (7’)
+Following step 2, create a new dataframe that only contains the rows for San Antonio only (i.e., czname==”San Antonio”) (7’)
+Following step 3, make the histogram of household income of San Antonio (variable name: “hhinc_mean2000”) (7’)
+Following step 3, make the scatter plot of population density (variable name: “popdensity2000”) and household income (variable name: “hhinc_mean2000”) of San Antonio (7’)
