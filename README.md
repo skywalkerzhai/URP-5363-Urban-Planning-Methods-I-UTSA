@@ -4,5 +4,4 @@ Wei Zhai, PhD (he/him/his)\
 Assistant Professor\
 Office: Durango Bldg., Room 2.306A, San Antonio, TX, Email: wei.zhai@utsa.edu\
 Class time: Tuesdays, 06:00 PM - 08:45 PM (Frio St Building, Room 3.520)\
-
 We have BootCamp for R beginners at UTSA: https://github.com/R-Bootcamp-UTSA
