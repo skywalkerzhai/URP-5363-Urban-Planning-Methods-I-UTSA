@@ -1,4 +1,4 @@
-#---------------Measuring the dissimilarity index of a MSA-------------------
+#---------------Basic Calculations in R-------------------
 Name <- c("Jon", "Bill", "Maria", "Ben", "Tina")
 Age <- c(23, 41, 32, 58, 26)
 Height <- c(173, 180, 164, 158, 196)
