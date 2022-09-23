@@ -1,4 +1,4 @@
-**URP 5363– Urban Planning Methods I, UTSA(Lab materials)**\
+**URP 5363– Urban Planning Methods I, UTSA (Weekly Lab Session Materials)**\
 Instructor:\
 Wei Zhai, PhD (he/him/his)\
 Assistant Professor\
